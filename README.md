@@ -8,7 +8,7 @@ I am a Electronics and Communication undergrad. I like to work in the field of r
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [mangrulkarvedant21@gmail.com](mailto:mangrulkarvedant21@gmail.com)
-* 🧠  I'm learning Machine Learning(Tensorflow) and Embedded Systems
+* 🧠  I'm learning VLSI and Machine Learning(Tensorflow) and Embedded Systems
 * 🤝  I'm open to collaborating on Projects related to vlsi and machine learning for robotics
 * ⚡  I'm Doctor Strange whose Multiverse is peaceful!
 
