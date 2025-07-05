@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electronics and Communication Undergrad
 ---------------------------------------
 
-I am a Electronics and Communication undergrad. I like to work in the field of robotics and Machine Learning..
+I am am Electronics and Communication undergrad. I like to work in the field of robotics and Machine Learning..
 
 * 🌍  I'm based in Bangalore
 * ✉️  You can contact me at [mangrulkarvedant21@gmail.com](mailto:mangrulkarvedant21@gmail.com)
